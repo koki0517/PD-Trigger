@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "USB_DIP")(type "KiCad")(uri "${KIPRJMOD}/USB_DIP.kicad_sym")(options "")(descr ""))
+  (lib (name "ch221k")(type "KiCad")(uri "${KIPRJMOD}/ch221k.kicad_sym")(options "")(descr ""))
+)
